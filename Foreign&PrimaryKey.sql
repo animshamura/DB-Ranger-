@@ -1,3 +1,5 @@
+ ?* Author - Shamura Ahmad */ 
+ 
  /* Creating Database */
  
  create database CodeSorcerBD; 
