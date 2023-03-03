@@ -1,4 +1,4 @@
- ?* Author - Shamura Ahmad */ 
+ /* Author - Shamura Ahmad */ 
  
  /* Creating Database */
  
