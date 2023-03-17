@@ -30,7 +30,7 @@ create table branch (
      customer_name varchar(256),
      account_number int,
      foreign key (customer_name) references customer(customer_name),
-     foreign key (account_number) references account(accounr_number)
+     foreign key (account_number) references account(account_number)
       );
       
  create table borrower (
